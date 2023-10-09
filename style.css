@@ -1,0 +1,115 @@
+body {
+    /* background-color: aqua; */
+    background-image: url(./img/ac.jpg);
+    /* background-repeat: repeat;
+    background-size: cover; */
+}
+div {
+    width: 200px;
+    height: 200px;
+    border: black solid 3px;
+    float: left;
+    background-color: aliceblue;
+    margin-right: 20px;
+    margin-bottom: 20px;
+    /* padding-top: 5px;
+    padding-left: 5px; */
+    text-align: center;
+}
+#divA {
+    background-image: url(./img/back_mantel.jpg);
+}
+#divB {
+    background-color: transparent;
+}
+#divBB {
+    background-image: url(./img/back_mantel.jpg);
+    float: center;
+    margin-top: 20px;
+    margin-left: 20px;
+    margin-bottom: 20px;
+    margin-right: 20px;
+    height: 77%;
+    width: 77%;
+    text-align: center;
+    /* width: 164px;
+    height: 164px;
+    background-image: url('../img/back_mantel.jpg');
+    padding: 20px;
+    background-clip: content-box; */
+}
+#divC {
+    background-image: url(./img/back_mantel.jpg);
+    background-size: cover;
+    /* background-repeat: repeat; */
+}
+/* #divD {
+} */
+#divDD {
+    background-image: url(./img/back_mantel.jpg);   
+    margin-top: 20px;
+    margin-left: 20px;
+    margin-bottom: 20px;
+    margin-right: 20px;
+    height: 77%;
+    width: 77%;
+    /* background-color: aliceblue;
+    background-image: url('../img/back_mantel.jpg');
+    background-size: cover;
+    width: 164px;
+    height: 164px;
+    padding: 20px;
+    background-origin: content-box;
+    background-repeat: no-repeat;   */
+}
+#divE {
+    background-image: url(./img/dh.jpg);
+    background-size: cover;
+}
+/* #divF {
+} */
+#divFF {
+    background-image: url(./img/dh.jpg);
+    background-position: center;
+    background-size: cover;
+    margin-top: 20px;
+    margin-left: 20px;
+    margin-bottom: 20px;
+    margin-right: 20px;
+    height: 77%;
+    width: 77%;   
+}
+#divGG {
+    background-image: url(./img/dh_2.jpg);
+    background-position: center;
+    background-size: cover;
+    margin-top: 23%;
+    height: 100px;
+    width: 99%;  
+    background-repeat: no-repeat;
+
+}
+#divHH {
+    background-image: url(./img/dh_3.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-left: 25%;
+    width: 100px;
+    height: 197px;
+
+}
+#divI {
+    background: linear-gradient(to right,yellow 0%, grey 100%);
+}
+#divJ {
+    background: linear-gradient(to top, rgb(205, 146, 146) 0%, brown 20%, rgb(148, 72, 72) 30%);
+}
+#divK {
+    background: linear-gradient(to top, green 0%, white 100%);
+}
+
+#divL {
+    background: linear-gradient(to top,green 0%, grey 100%);
+    opacity: 50%;
+}
+
